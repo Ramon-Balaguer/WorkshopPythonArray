@@ -1,0 +1,2 @@
+- https://mypy.readthedocs.io/en/stable/getting_started.html
+- https://viralogic.github.io/py-enumerable/
